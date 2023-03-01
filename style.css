@@ -1,0 +1,135 @@
+body {
+	font-family: Arial, sans-serif;
+}
+
+.container {
+	background-color: #FFFFFF;
+	width: 360px;
+	height: 720px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	box-shadow: 0 10px 50px rgba(0, 0, 0, 0.1);
+	border-radius: 48px;
+	text-align: center;
+	background-color: #a89292;
+	
+}
+
+.container button:hover{
+    background-color: rgb(29, 194, 194); 
+}
+
+h2 {
+	font-size: 21px;
+	border-bottom: 1px solid #E5E5E5;
+	padding: 10px;
+	margin-top: 50px;
+    padding-bottom: 145px;
+}
+
+.btn {
+	margin-top: 17px;
+	font-size: 19px;
+}
+.btn .bd1 button{
+	border-radius: 25px;
+	/* margin-left: 25px;
+	margin-right: 5px; */
+}
+.btn .bd2{
+	margin: 0px;
+	margin-top: -25px;
+}
+
+.btn .bd3 {
+	font-size: 19px;
+	margin-top: -4px;
+}
+.btn .bd3 button {
+    border-radius: 20px 20px 50px 50px;
+	padding: 4px;
+	margin: 3px;
+    cursor: pointer;
+	color: white;
+    background-color: black;
+	padding-top:4px;
+}
+
+
+
+
+
+.btn1 {
+	font-size: 19px;
+}
+.btn1 button {
+    border-radius: 20px 20px 50px 50px;
+	padding: 4px;
+	margin: 3px;
+    cursor: pointer;
+	color: white;
+    background-color: black;
+	padding-top:4px;
+}
+.btn1 .x{
+	padding-right: 13px;
+    padding-top: 0px;
+    padding-bottom: 1px;
+    padding-left: 13px;
+}
+
+.btn1 .b1prl9{
+	padding-right:9px;
+	padding-left: 9px;
+}
+.btn1 .b1prl11{
+	padding-right:11px;
+	padding-left: 11px;
+	
+}
+.btn1 .b1prl12{
+	padding-right:12px;
+	padding-left: 12px;
+}
+.btn1 .b1prl14{
+	padding-right:14px;
+	padding-left: 14px;
+}
+.btn1 .b1prl15{
+	padding-right:15px;
+	padding-left: 15px;
+	padding-top:0px;
+}
+.btn1 .b1prl16{
+	padding-right:16px;
+	padding-left: 16px;
+}
+.btn1 .b1prl7{
+	padding-right:7px;
+	padding-left: 7px;
+}
+.btn1 .b1prl19{
+	padding-right:19px;
+	padding-left: 19px;	
+}
+
+
+
+
+
+
+.btn2 {
+	font-size: 19px;
+}
+.btn2 button {
+    border-radius: 10px 10px 20px 20px;
+    padding: 15px;
+    margin: 5px;
+    cursor: pointer;
+}
+.btn2 .b21 {
+    padding-left: 23px;
+    padding-right: 23px;
+}
